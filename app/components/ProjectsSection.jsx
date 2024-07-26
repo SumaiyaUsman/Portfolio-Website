@@ -11,7 +11,7 @@ const projectsData = [
     description: "A portfolio website built using React, showcasing my skills, projects, and experiences.",
     image: "/images/portfolio.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
+    gitUrl: "https://github.com/SumaiyaUsman/Portfolio-Website",
     previewUrl: "/",
   },
   {
@@ -20,7 +20,7 @@ const projectsData = [
     description: "A mobile app to find food trucks in University City, Philadelphia, view reviews, and filter by preferences.",
     image: "/images/app.png",
     tag: ["All", "Mobile"],
-    gitUrl: "/",
+    gitUrl: "https://github.com/SumaiyaUsman/Philly-Foodies",
     previewUrl: "/",
   },
 ];
