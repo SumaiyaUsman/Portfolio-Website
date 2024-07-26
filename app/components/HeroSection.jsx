@@ -37,7 +37,7 @@ const HeroSection = () => {
                 Hire Me
             </button>
             <a 
-              href="/sumaiya_resume.pdf" 
+              href="/public/sumaiya_resume.pdf" 
               target="_blank" 
               rel="noopener noreferrer"
               className="block w-full sm:w-fit mt-3"
